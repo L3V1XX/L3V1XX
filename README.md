@@ -35,11 +35,8 @@
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-<details>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=L3V1XX&show_icons=true)  
-
-</details>
 
 [website]: https://github.com/L3V1XX?tab=repositories
 [Fivem]: https://github.com/citizenfx/fivem
