@@ -36,9 +36,8 @@
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="levi's GitHub Stats" src="https://github-readme-stats.L3V1XX.vercel.app/api?username=levi&show_icons=true&hide_border=true" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=L3V1XX&show_icons=true)  
 
 </details>
 
