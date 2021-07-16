@@ -4,7 +4,7 @@
 
 **This is my Github profile I hope you like it and you can find everything you need. I'm always trying to learn all kinds of programming languages in order to expand my knowledge.**
 
-I hope that my content and what I can contribute is useful for something
+**I hope that my content and what I can contribute is useful for something**
 
 ## I am Spanish developer and a technology freak.
 - 🔭 I am currently working with my team on a new [Fivem] project
@@ -37,6 +37,7 @@ I hope that my content and what I can contribute is useful for something
 
 [<img align="left" alt="levi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="levi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/L3V1XX)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/728967516227108924)  
 
 <br />
 
