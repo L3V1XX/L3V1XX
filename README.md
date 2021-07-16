@@ -1,4 +1,4 @@
-### Hi there, I'm Levi - aka [Levi] 👋
+### Hi there, I'm Levi 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/levi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=levi)
 
 ## I am Spanish developer and a technology freak.
@@ -32,8 +32,10 @@
 
 <br />
 <br />
+<details>
+  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+</details>
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=L3V1XX&show_icons=true)  
