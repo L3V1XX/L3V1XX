@@ -4,6 +4,8 @@
 
 ## I am Spanish developer and a technology freak.
 
+This is my Github profile I hope you like it and you can find everything you need. 
+
 - 🔭 I am currently working with my team on a new [Fivem] project
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
