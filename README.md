@@ -2,10 +2,11 @@
 [![Twitter](https://img.shields.io/twitter/follow/Unchicoplanta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Unchicoplanta)
 [![Discord](https://img.shields.io/badge/Discord-ダイン%237950-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/728967516227108924)
 
+This is my Github profile I hope you like it and you can find everything you need. I'm always trying to learn all kinds of programming languages in order to expand my knowledge.
+
+I hope that my content and what I can contribute is useful for something
+
 ## I am Spanish developer and a technology freak.
-
-This is my Github profile I hope you like it and you can find everything you need. 
-
 - 🔭 I am currently working with my team on a new [Fivem] project
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
