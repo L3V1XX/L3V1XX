@@ -1,5 +1,6 @@
 ### Hi there, I'm Levi 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/levi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=levi)
+[[Twitter](https://img.shields.io/twitter/follow/levi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=levi)
+[[Discord](https://img.shields.io/badge/Discord-ダイン%7950-7289DA?logo=discord&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=levi)
 
 ## I am Spanish developer and a technology freak.
 
@@ -45,6 +46,7 @@
 
 [website]: https://github.com/L3V1XX?tab=repositories
 [Fivem]: https://github.com/citizenfx/fivem
+[Discord]:
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/Unchicoplanta
 [youtube]: https://www.youtube.com/channel/UCqpaSUjVpIlpaJePw2yHzdg
