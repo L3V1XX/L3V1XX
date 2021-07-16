@@ -9,7 +9,7 @@
 ## I am Spanish developer and a technology freak.
 - 🔭 I am currently working with my team on a new [Fivem] project
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 To launch my current projects
 - ⚡ Fun fact: I love food,technology and sports
 
 
