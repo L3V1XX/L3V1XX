@@ -9,8 +9,6 @@
 - ⚡ Fun fact: I love food,technology and sports
 
 
-
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
@@ -31,7 +29,8 @@
 ### Sponsor:
   <h4>Badges</h4>
    <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-</br>
+   <br />
+<br />
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=L3V1XX&show_icons=true)  
