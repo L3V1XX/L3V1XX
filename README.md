@@ -32,6 +32,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=L3V1XX&show_icons=true)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3V1XX)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Connect with me:
 
