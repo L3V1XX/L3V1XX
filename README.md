@@ -32,7 +32,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=L3V1XX&show_icons=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3V1XX)(https://github.com/L3V1XX?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3V1XX)](https://github.com/L3V1XX?tab=repositories)
 
 
 ### Connect with me:
