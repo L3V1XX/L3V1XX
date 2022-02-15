@@ -7,9 +7,9 @@
 **I hope that my content and what I can contribute is useful for something**
 
 ## I am Spanish developer and a technology freak.
-- 🔭 I am currently working with my team on a new [Fivem] project
+- 🔭 I am currently working with my team on a new [Fivem] project and study for IOS Developer
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 To launch my current projects
+- 🥅 2022 To launch my current projects
 - ⚡ Fun fact: I love food,technology and sports
 
 
