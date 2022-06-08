@@ -1,7 +1,7 @@
-<h3 align = 'center'>Bienvenido a mi Github, soy Levixx</h3>
+<h3 align = 'center'>Bienvenidos a mi Github, soy Levixx</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Bienvenido" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Bienvenidos" />
 </p>
 
 ### Languages and Tools:
@@ -21,9 +21,9 @@
 <br />
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=L3V1XX&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=L3V1XX&show_icons=true&theme=tokyonight)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3V1XX)](https://github.com/L3V1XX?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3V1XX&theme=tokyonight)](https://github.com/L3V1XX?tab=repositories)
 
 
 ### Connect with me:
