@@ -6,15 +6,6 @@
 
 ******
 
-### Connect with me:
-
-[<img align="left" alt="levi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="levi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' width='22'>](https://discordapp.com/users/728967516227108924)  
-
-<br />
-
-
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
@@ -30,15 +21,21 @@
 </br>
 And more...
 
+## Connect with me:
 
-[website]: https://github.com/L3V1XX?tab=repositories
-[Fivem]: https://github.com/citizenfx/fivem
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/Unchicoplanta
-[youtube]: https://www.youtube.com/channel/UCqpaSUjVpIlpaJePw2yHzdg
-[instagram]: https://instagram.com/levi
-[linkedin]: https://linkedin.com/in/levi
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[![YouTube](https://img.shields.io/badge/YouTube-LeviDarkGame-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCqpaSUjVpIlpaJePw2yHzdg/featured)
+[![Twitch](https://img.shields.io/badge/Twitch-LeviDarkGame-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/levidarkgame)
+[![Discord](https://img.shields.io/badge/Discord-Levix-7950?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/v6RT2F6DG7)
+</br>
+[![Twitter](https://img.shields.io/badge/Twitter-@Unchicoplanta-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Unchicoplanta)
+</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Manuel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/josemanuelpayangordillo/)
+<br />
+
+## My profile statistics
+![Snowflake107](https://github-readme-stats.vercel.app/api?username=L3V1XX&show_icons=true&theme=tokyonight&hide=["issues"])<br/>![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=L3V1XX&show_icons=true&theme=tokyonight&layout=compact)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+## Contact & support:
+[![Email](https://img.shields.io/badge/josemanuel.payan1997@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:josemanuel.payan1997@gmail.com)
+
