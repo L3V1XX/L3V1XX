@@ -1,4 +1,4 @@
-<h3 align = 'center'>Bienvenidos a mi Github, soy Levixx</h3>
+<h3 align = 'center'>Welcome to my Github 🤖</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Bienvenidos" />
