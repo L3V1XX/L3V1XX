@@ -12,8 +12,6 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemanuelpayangordillo/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LeviDarkGame)
 
-[![Apple](https://img.shields.io/badge/Apple-Mac-Mini-M1?style=for-the-badge&logo=apple&logoColor=white)]()
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue)
 
