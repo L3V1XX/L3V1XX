@@ -20,7 +20,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/thedarkgame1?si=fa9d870cdaf54554)
+[![Spotify](https://novatorem-kyzbk7wxl-thedarkgame1.vercel.app/api/spotify)](https://open.spotify.com/user/thedarkgame1?si=fa9d870cdaf54554)
 
 
 ---
