@@ -18,13 +18,6 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-kyzbk7wxl-thedarkgame1.vercel.app/api/spotify)](https://open.spotify.com/user/thedarkgame1?si=fa9d870cdaf54554)
-
-
----
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue)
 
