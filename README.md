@@ -10,23 +10,29 @@
 
 ### 🚀 Sobre mí
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Trabajo-🚀-blue?style=for-the-badge" alt="Trabajo"/>
-  <span style="font-size: 1.1em;">Actualmente trabajando en:</span>
-  <strong>Proyectos personales y colaboraciones open source</strong>
-</p>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/Trabajo-🚀-0077B5?style=for-the-badge" alt="Trabajo" />
+  <div style="margin-left: 10px;">
+    <span style="font-size: 1.2em; font-weight: bold;">Actualmente trabajando en:</span>
+    <p style="margin: 0;">Proyectos personales y colaboraciones open source.</p>
+  </div>
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Aprendiendo-📚-green?style=for-the-badge" alt="Aprendiendo"/>
-  <span style="font-size: 1.1em;">Aprendiendo:</span>
-  <strong>JavaScript, Java, SQL, CSS, HTML</strong>
-</p>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/Aprendiendo-📚-28A745?style=for-the-badge" alt="Aprendiendo" />
+  <div style="margin-left: 10px;">
+    <span style="font-size: 1.2em; font-weight: bold;">Aprendiendo:</span>
+    <p style="margin: 0;">JavaScript, Java, SQL, CSS, HTML.</p>
+  </div>
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Colaboraciones-🤝-orange?style=for-the-badge" alt="Colaboraciones"/>
-  <span style="font-size: 1.1em;">Interesado en colaborar en:</span>
-  <strong>Proyectos open source</strong>
-</p>
+<div style="display: flex; align-items: center;">
+  <img src="https://img.shields.io/badge/Colaboraciones-🤝-FFA500?style=for-the-badge" alt="Colaboraciones" />
+  <div style="margin-left: 10px;">
+    <span style="font-size: 1.2em; font-weight: bold;">Interesado en colaborar en:</span>
+    <p style="margin: 0;">Proyectos open source.</p>
+  </div>
+</div>
 
   
 - 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/josemanuelpayangordillo/).
