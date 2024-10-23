@@ -64,13 +64,11 @@ No Activity Tracked This Week
 
 ### 📚 Proyectos Destacados
 
-- [**Proyecto 1**](#)  
-  _Descripción breve del proyecto 1. Explica brevemente el objetivo o tecnología utilizada._
+- [**Portfolio Web**](https://tu-enlace-portfolio.com)  
+  _Un sitio web personal desarrollado con HTML5, CSS3, y JavaScript para mostrar mis proyectos y experiencia profesional._
   
-- [**Proyecto 2**](#)  
-  _Descripción breve del proyecto 2. Incluye algún detalle técnico o el resultado final del proyecto._
+- [**Sistema de Gestión de Inventarios**](https://github.com/tu-enlace-repositorio)  
+  _Aplicación creada con Python y Django para gestionar inventarios en pequeñas empresas. Incluye autenticación y manejo de base de datos._
   
-- [**Proyecto 3**](#)  
-  _Descripción breve del proyecto 3. Explica si es un proyecto personal o colaborativo._
-
-
+- [**Juego de Aventura en React**](https://github.com/tu-enlace-juego)  
+  _Un juego interactivo basado en React y Redux con animaciones y lógica de juego simple. Desarrollado como parte de un proyecto open source._
