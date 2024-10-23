@@ -9,11 +9,25 @@
 ---
 
 ### 🚀 Sobre mí
-```diff
-+ 🔭 Actualmente trabajando en proyectos personales y colaboraciones open source.
-+ 🌱 Aprendiendo: JavaScript, Java, SQL, CSS, HTML.
-+ 👯 Interesado en colaborar en proyectos open source.
-```
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Trabajo-🚀-blue?style=for-the-badge" alt="Trabajo"/>
+  <span style="font-size: 1.1em;">Actualmente trabajando en:</span>
+  <strong>Proyectos personales y colaboraciones open source</strong>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Aprendiendo-📚-green?style=for-the-badge" alt="Aprendiendo"/>
+  <span style="font-size: 1.1em;">Aprendiendo:</span>
+  <strong>JavaScript, Java, SQL, CSS, HTML</strong>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Colaboraciones-🤝-orange?style=for-the-badge" alt="Colaboraciones"/>
+  <span style="font-size: 1.1em;">Interesado en colaborar en:</span>
+  <strong>Proyectos open source</strong>
+</p>
+
   
 - 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/josemanuelpayangordillo/).
 - 😄 Pronombres: **He/Him**.
