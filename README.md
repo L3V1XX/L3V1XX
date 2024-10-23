@@ -72,4 +72,11 @@
 ---
 
 ### 🏆 Logros
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2026%20mins-blue?style=for-the-badge)
+
+<p align="center">
+  <img src="http://img.shields.io/badge/Code%20Time-17%20hrs%2026%20mins-blue?style=for-the-badge" alt="Code Time"/>
+  <img src="https://img.shields.io/badge/Commits-150%2B-orange?style=for-the-badge" alt="Commits"/>
+  <img src="https://img.shields.io/badge/Contribuciones%20Open%20Source-5+-brightgreen?style=for-the-badge" alt="Contribuciones Open Source"/>
+  <img src="https://img.shields.io/badge/Proyectos%20Completados-3-blueviolet?style=for-the-badge" alt="Proyectos Completados"/>
+  <img src="https://img.shields.io/badge/Repos%20en%20GitHub-10+-blue?style=for-the-badge" alt="Repositorios GitHub"/>
+</p>
