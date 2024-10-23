@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/josemanuelpayangordillo/"><img src="https://img.shields.io/badge/LinkedIn-José%20Manuel%20Payán%20Gordillo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/L3V1XX"><img src="https://img.shields.io/badge/GitHub-L3V1XX-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://twitter.com/LeviDarkGame"><img src="https://img.shields.io/badge/Twitter-LeviDarkGame-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
