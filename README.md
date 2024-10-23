@@ -10,28 +10,32 @@
 
 ### 🚀 Sobre mí
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/Trabajo-🚀-0077B5?style=for-the-badge" alt="Trabajo" />
-  <div style="margin-left: 10px;">
-    <span style="font-size: 1.2em; font-weight: bold;">Actualmente trabajando en:</span>
-    <p style="margin: 0;">Proyectos personales y colaboraciones open source.</p>
+<div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px;">
+  
+  <div style="display: flex; align-items: center; margin-bottom: 15px;">
+    <img src="https://img.shields.io/badge/Trabajo-🚀-0077B5?style=for-the-badge&logo=rocket" alt="Trabajo" />
+    <div style="margin-left: 10px;">
+      <h4 style="margin: 0; font-weight: bold;">Actualmente trabajando en:</h4>
+      <p style="margin: 0; color: #666;">Proyectos personales y colaboraciones open source.</p>
+    </div>
   </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/Aprendiendo-📚-28A745?style=for-the-badge" alt="Aprendiendo" />
-  <div style="margin-left: 10px;">
-    <span style="font-size: 1.2em; font-weight: bold;">Aprendiendo:</span>
-    <p style="margin: 0;">JavaScript, Java, SQL, CSS, HTML.</p>
+  
+  <div style="display: flex; align-items: center; margin-bottom: 15px;">
+    <img src="https://img.shields.io/badge/Aprendiendo-📚-28A745?style=for-the-badge&logo=openbook" alt="Aprendiendo" />
+    <div style="margin-left: 10px;">
+      <h4 style="margin: 0; font-weight: bold;">Aprendiendo:</h4>
+      <p style="margin: 0; color: #666;">JavaScript, Java, SQL, CSS, HTML.</p>
+    </div>
   </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <img src="https://img.shields.io/badge/Colaboraciones-🤝-FFA500?style=for-the-badge" alt="Colaboraciones" />
-  <div style="margin-left: 10px;">
-    <span style="font-size: 1.2em; font-weight: bold;">Interesado en colaborar en:</span>
-    <p style="margin: 0;">Proyectos open source.</p>
+  
+  <div style="display: flex; align-items: center;">
+    <img src="https://img.shields.io/badge/Colaboraciones-🤝-FFA500?style=for-the-badge&logo=people-arrows" alt="Colaboraciones" />
+    <div style="margin-left: 10px;">
+      <h4 style="margin: 0; font-weight: bold;">Interesado en colaborar en:</h4>
+      <p style="margin: 0; color: #666;">Proyectos open source.</p>
+    </div>
   </div>
+  
 </div>
 
   
