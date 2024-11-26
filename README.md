@@ -54,35 +54,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
----
-
-### 📚 Proyectos Destacados
-
-#### 🚀 [Portfolio Web](https://tu-enlace-portfolio.com)
-> Un sitio web personal desarrollado con HTML5, CSS3 y JavaScript para mostrar mis proyectos y experiencia profesional.
->
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-#### 🗃️ [Sistema de Gestión de Inventarios](https://github.com/tu-enlace-repositorio)
-> Aplicación creada en Python y Django para gestionar inventarios en pequeñas empresas, con autenticación y manejo de bases de datos.
->
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-> ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
----
-
-#### 🎮 [Juego de Aventura en React](https://github.com/tu-enlace-juego)
-> Un juego interactivo basado en React y Redux con animaciones y lógica de juego simple. Desarrollado como parte de un proyecto open source.
->
-> ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-> ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ---
 
 ### 📊 Estadísticas de GitHub
