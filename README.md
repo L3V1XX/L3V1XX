@@ -6,14 +6,11 @@
   <td align="center" width="160">
     <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="informatico con gafas" width="140" style="border-radius:12px;" />
   </td>
-  <td align="left" style="padding-left:16px;">
-    <h1 style="margin:0">Jose Manuel Payán — <strong>Software Developer</strong></h1>
-    <p style="margin:6px 0 0 0">
+  <td align="left" style="padding-left:16px; vertical-align: middle;">
+    <p style="margin:0 0 0 0; padding-left:8px;">
       <a href="https://open.spotify.com/playlist/37i9dQZF1DX2sUQwD7tbmL" target="_blank">
         <img src="https://img.shields.io/badge/Now%20Playing-Lofi%20Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing on Spotify" />
       </a>
-      <br>
-      <small style="color:#9CA3AF">Currently vibing to Lofi</small>
     </p>
   </td>
 </tr></table>
