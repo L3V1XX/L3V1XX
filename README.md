@@ -2,6 +2,10 @@
 
 <div align="center">
 
+  <img src="https://github.com/L3V1XX.png" alt="avatar" width="140" style="border-radius:50%;" />
+
+  <h1 align="center">Jose Manuel Payán — <strong>Software Developer</strong></h1>
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Software+Developer;DAM+Student;Open+Source+Lover" alt="Typing SVG" />
@@ -36,16 +40,21 @@ const me = {
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
 </div>
 
@@ -56,10 +65,10 @@ const me = {
 <div align="center">
 
 <a href="https://github.com/L3V1XX">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=L3V1XX&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=667eea&text_color=c9d1d9&include_all_commits=true&hide=issues" />
+  <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api?username=L3V1XX&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=667eea&text_color=c9d1d9&include_all_commits=true&hide=issues" />
 </a>
 <a href="https://github.com/L3V1XX">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=L3V1XX&layout=compact&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9&langs_count=6" />
+  <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=L3V1XX&layout=compact&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9&langs_count=6" />
 </a>
 
 <br>
