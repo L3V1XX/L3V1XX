@@ -70,13 +70,6 @@ const me = {
 
 </div>
 
----
-
-<div align="center">
-
-<a href="https://github.com/L3V1XX">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L3V1XX&hide_border=true&bg_color=0D1117&color=a855f7&line=667eea&point=ffffff&area=true&area_color=667eea&radius=16" width="100%" />
-</a>
 
 <br>
 
