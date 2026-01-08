@@ -4,7 +4,10 @@
 
 <table align="center"><tr>
   <td align="center" width="160">
-    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="informatico con gafas" width="140" style="border-radius:12px;" />
+    <video width="140" style="border-radius:12px; display:block;" autoplay loop muted playsinline>
+      <source src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.mp4" type="video/mp4" />
+      <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="informatico con gafas" width="140" style="border-radius:12px; display:block;" />
+    </video>
   </td>
   <td align="left" style="padding-left:16px; vertical-align: middle;">
     <p style="margin:0 0 0 0; padding-left:8px;">
