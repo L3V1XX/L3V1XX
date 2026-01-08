@@ -4,7 +4,7 @@
 
 <table align="center"><tr>
   <td align="center" width="160">
-    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="informatico con gafas" width="140" style="border-radius:12px;" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding lofi style" width="140" style="border-radius:12px;" />
   </td>
   <td align="left" style="padding-left:16px; vertical-align: middle;">
     <p style="margin:0 0 0 0; padding-left:8px;">
@@ -14,6 +14,8 @@
     </p>
   </td>
 </tr></table>
+
+<br>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -88,17 +90,9 @@ const me = {
 
 <div align="center">
 
-<a href="https://github.com/L3V1XX">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L3V1XX&hide_border=true&bg_color=0D1117&color=a855f7&line=667eea&point=ffffff&area=true&area_color=667eea&radius=16" width="100%" />
-</a>
-
-<br>
-
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-667eea?style=flat-square&logo=globe&logoColor=white)](https://levix.dev)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white)](https://www.linkedin.com/in/josemanuelpayangordillo/)
 [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/L3V1XX)
-
-<br>
 
 </div>
 
