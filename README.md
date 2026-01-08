@@ -64,10 +64,6 @@ const me = {
 
 <br>
 
-<a href="https://github.com/L3V1XX">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=L3V1XX&hide_border=true&background=0D1117&ring=667eea&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
-</a>
-
 </div>
 
 ---
