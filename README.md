@@ -1,117 +1,98 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:a855f7&height=150&section=header&text=Jose%20Manuel%20Payán&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:a855f7&height=180&section=header&text=Jose%20Manuel%20Payán&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=32" width="100%" />
+<table align="center"><tr>
+  <td align="center" width="160">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding lofi style" width="140" style="border-radius:12px;" />
+  </td>
+  <td align="left" style="padding-left:16px; vertical-align: middle;">
+    <p style="margin:0 0 0 0; padding-left:8px;">
+      <a href="https://open.spotify.com/playlist/37i9dQZF1DX2sUQwD7tbmL" target="_blank">
+        <img src="https://img.shields.io/badge/Now%20Playing-Lofi%20Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing on Spotify" />
+      </a>
+    </p>
+  </td>
+</tr></table>
 
-<!-- Animated Subtitle -->
+<br>
+
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=50&lines=%F0%9F%92%BB+Software+Developer+%7C+%F0%9F%8E%A7+Lofi+Lover+%7C+%E2%9C%A8+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Software+Developer;DAM+Student;Open+Source+Lover" alt="Typing SVG" />
 </a>
 
 <br>
 
-<!-- Quick Links -->
-<a href="https://levix.dev">
-  <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/josemanuelpayangordillo/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:contact@levix.dev">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://open.spotify.com/playlist/37i9dQZF1DX2sUQwD7tbmL">
-  <img src="https://img.shields.io/badge/Lofi_Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-</a>
-
-<br><br>
-
-<!-- Animated Coding GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius:16px;" alt="Coding" />
+<!-- Social Links - Minimal Style -->
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/levix.dev-667eea?style=for-the-badge&logo=globe&logoColor=white)](https://levix.dev)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/josemanuelpayangordillo/)
+[![Email](https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=for-the-badge&logo=mail&logoColor=white)](mailto:contact@levix.dev)
 
 </div>
 
-<br>
+---
 
-<!-- About Section -->
-<details open>
-<summary><b>🧑‍💻 About Me</b></summary>
-<br>
+## 🧑‍💻 About
 
-```typescript
-const jose = {
-  role: "Software Developer",
-  languages: ["TypeScript", "JavaScript", "Java", "Python"],
-  technologies: {
-    frontend: ["React", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "REST APIs"],
-    tools: ["Git", "VS Code", "Figma"]
-  },
-  currentlyLearning: "Building cool stuff with Next.js",
+```js
+const me = {
+  code: ["JavaScript", "TypeScript", "Java", "Python"],
+  tools: ["React", "Next.js", "Node.js", "Tailwind"],
+  currentFocus: "Building cool stuff with Next.js",
   funFact: "I mass print console.log() 🪲"
 };
 ```
 
-</details>
+---
 
-<!-- Tech Stack -->
-<details open>
-<summary><b>🛠️ Tech Stack</b></summary>
-<br>
+## 🛠️ Stack
 
 <div align="center">
 
-**Languages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
 </div>
 
-</details>
+---
 
-<!-- GitHub Stats -->
-<details open>
-<summary><b>📊 GitHub Stats</b></summary>
-<br>
+## 📊 Stats
 
 <div align="center">
 
 <a href="https://github.com/L3V1XX">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=L3V1XX&show_icons=true&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=667eea&text_color=c9d1d9&include_all_commits=true&hide=issues&ring_color=667eea" height="150" alt="GitHub Stats" />
+  <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api?username=L3V1XX&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=667eea&text_color=c9d1d9&include_all_commits=true&hide=issues" />
 </a>
 <a href="https://github.com/L3V1XX">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=L3V1XX&layout=compact&hide_border=true&bg_color=00000000&title_color=a855f7&text_color=c9d1d9&langs_count=6" height="150" alt="Top Languages" />
+  <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=L3V1XX&layout=compact&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9&langs_count=6" />
 </a>
 
 <br>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=L3V1XX&hide_border=true&background=00000000&ring=667eea&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" height="150" alt="GitHub Streak" />
-
 </div>
 
-</details>
+---
 
-<br>
-
-<!-- Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:a855f7&height=120&section=footer" width="100%" />
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-667eea?style=flat-square&logo=globe&logoColor=white)](https://levix.dev)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white)](https://www.linkedin.com/in/josemanuelpayangordillo/)
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/L3V1XX)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:a855f7&height=100&section=footer"/>
