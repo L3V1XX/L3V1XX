@@ -67,35 +67,18 @@ const jose = {
 
 <br>
 
-## GitHub Stats
+## Currently
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=L3V1XX&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=667eea&text_color=c9d1d9&include_all_commits=true&hide=issues" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=L3V1XX&layout=compact&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9&langs_count=6" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=L3V1XX&hide_border=true&background=0D1117&stroke=0D1117&ring=a855f7&fire=667eea&currStreakLabel=a855f7" />
-
-</div>
+| | |
+|---|---|
+| 🔭 | Working on personal projects with **Next.js** and **TypeScript** |
+| 📚 | Studying **DAM** (Desarrollo de Aplicaciones Multiplataforma) |
+| 🤝 | Open to collaborating on open-source or side projects |
+| ⚡ | Learning by building — one small project at a time |
 
 <br>
 
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/L3V1XX/REPO_NAME">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=L3V1XX&repo=REPO_NAME&theme=default&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=667eea&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/L3V1XX/REPO_NAME_2">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=L3V1XX&repo=REPO_NAME_2&theme=default&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=667eea&text_color=c9d1d9" />
-</a>
-
-<sub><i>Replace REPO_NAME with your actual repositories to pin them here.</i></sub>
-
-</div>
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 <br>
 
